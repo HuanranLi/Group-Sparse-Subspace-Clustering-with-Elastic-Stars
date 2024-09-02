@@ -48,18 +48,8 @@ pip install numpy matplotlib cvxpy seaborn scipy scikit-learn networkx
 To execute the script and perform the subspace clustering analysis:
 
 ```bash
-python script_name.py
+python main.py
 ```
-
-Replace `script_name.py` with the actual name of the script.
-
-## Files in This Repository
-
-- **`Init.py`**: Functions for initializing low-rank matrices.
-- **`plot.py`**: Plotting utilities for visualizing results.
-- **`ES_SSC.py`**: Implementation of Elastic Stars regularized SSC.
-- **`SSC.py`**: Implementation of traditional SSC.
-- **`EnSC.py`**: Implementation of Elastic Net SSC.
 
 ## Experimental Results
 
@@ -89,9 +79,6 @@ If you use this code, please cite the following paper:
 
 You can access the paper [here](https://ieeexplore.ieee.org/document/10619557).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
