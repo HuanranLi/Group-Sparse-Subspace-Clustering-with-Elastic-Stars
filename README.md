@@ -77,15 +77,17 @@ print(data.files)
 If you use this code, please cite the following paper:
 
 ```
-@inproceedings{li2024group,
+@inproceedings{Li2024ElasticStars,
   title={Group-Sparse Subspace Clustering with Elastic Stars},
-  author={Li, Huanran and Pimentel-Alarc{\H{o}}n, Daniel},
-  booktitle={2024 IEEE International Symposium on Information Theory (ISIT)},
-  pages={1961--1966},
+  author={Huanran Li and Daniel Pimentel-Alarcón},
   year={2024},
-  organization={IEEE}
+  booktitle={IEEE International Symposium on Information Theory (ISIT)},
+  organization={IEEE},
+  url={https://ieeexplore.ieee.org/document/10619557}
 }
 ```
+
+You can access the paper [here](https://ieeexplore.ieee.org/document/10619557).
 
 ## License
 
